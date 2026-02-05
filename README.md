@@ -123,7 +123,7 @@ CustIQ/
 
 ⚙ Installation & Setup
 Clone Repository
-git clone https://github.com/YOUR_USERNAME/CustIQ.git
+git clone https://github.com/Tushar0326/CustIQ-Customer-Segmentation-Retention-Engine.git
 cd CustIQ
 
 Install Dependencies
