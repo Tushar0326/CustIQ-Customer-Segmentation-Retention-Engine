@@ -1,5 +1,5 @@
+<img width="1536" height="1024" alt="ChatGPT Image Feb 5, 2026, 09_32_53 PM" src="https://github.com/user-attachments/assets/505e9661-5b04-453e-a45e-467ffbc2f852" />
 🚀 CustIQ – AI-Powered Customer Intelligence & Retention Platform
-
 CustIQ is an end-to-end AI-driven customer analytics system that helps businesses understand customer behavior, predict churn risk, and recommend ROI-optimized retention strategies.
 
 It transforms raw transactional data into actionable business intelligence using machine learning, explainable AI, and real-time prediction services.
